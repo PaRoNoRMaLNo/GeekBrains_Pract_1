@@ -1,0 +1,7 @@
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\bin\Debug\Manan_geekBreans_lesson_1.exe.config
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\bin\Debug\Manan_geekBreans_lesson_1.exe
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\bin\Debug\Manan_geekBreans_lesson_1.pdb
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\obj\Debug\Manan_geekBreans_lesson_1.csproj.AssemblyReference.cache
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\obj\Debug\Manan_geekBreans_lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\obj\Debug\Manan_geekBreans_lesson_1.exe
+C:\Users\aidar\source\repos\Manan_geekBreans_lesson_1\Manan_geekBreans_lesson_1\obj\Debug\Manan_geekBreans_lesson_1.pdb
