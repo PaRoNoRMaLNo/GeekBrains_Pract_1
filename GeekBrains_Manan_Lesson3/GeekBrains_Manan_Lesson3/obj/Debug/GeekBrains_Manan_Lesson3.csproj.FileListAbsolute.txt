@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\bin\Debug\GeekBrains_Manan_Lesson3.exe.config
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\bin\Debug\GeekBrains_Manan_Lesson3.exe
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\bin\Debug\GeekBrains_Manan_Lesson3.pdb
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\obj\Debug\GeekBrains_Manan_Lesson3.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\obj\Debug\GeekBrains_Manan_Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\obj\Debug\GeekBrains_Manan_Lesson3.exe
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson3\GeekBrains_Manan_Lesson3\obj\Debug\GeekBrains_Manan_Lesson3.pdb
