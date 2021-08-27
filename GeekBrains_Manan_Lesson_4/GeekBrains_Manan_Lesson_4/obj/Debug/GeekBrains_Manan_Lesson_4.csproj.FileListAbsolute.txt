@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\bin\Debug\GeekBrains_Manan_Lesson_4.exe.config
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\bin\Debug\GeekBrains_Manan_Lesson_4.exe
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\bin\Debug\GeekBrains_Manan_Lesson_4.pdb
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\obj\Debug\GeekBrains_Manan_Lesson_4.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\obj\Debug\GeekBrains_Manan_Lesson_4.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\obj\Debug\GeekBrains_Manan_Lesson_4.exe
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\obj\Debug\GeekBrains_Manan_Lesson_4.pdb
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\bin\Debug\Massiv.dll
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\bin\Debug\Massiv.pdb
+C:\Users\1\source\repos\GeekBrains_Manan_Lesson_4\GeekBrains_Manan_Lesson_4\obj\Debug\GeekBrains_Manan_Lesson_4.csproj.CopyComplete
